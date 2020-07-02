@@ -1,8 +1,14 @@
 # ReactNative-cotizadorprestamos
  Final result of the first application of the react native course
 
+# Installing dependences
+```
+cd project/route
+npm i
+```
 # Running the app
 ```
+cd project/route
 npx react-native run-android
 ```
 
